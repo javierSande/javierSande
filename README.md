@@ -23,7 +23,7 @@
 </tr>
 </table>
 
-- 🌱 I’m currently learning **iOS App Development*
+- 🌱 I’m currently learning **iOS App Development**
 - 💬 Ask me anything on my **[issues page]**
 - 📫 How to reach me: **javiersanderios@gmail.com**
 
