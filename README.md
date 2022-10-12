@@ -23,7 +23,8 @@
 </tr>
 </table>
 
-- 🌱 I’m currently learning **iOS App Development**
+- 🌱 I’m currently learning **Web Development**
+- 🖌 I’m currently researching **Solidity compiler optimization**
 - 💬 Ask me anything on my **[issues page]**
 - 📫 How to reach me: **javiersanderios@gmail.com**
 
@@ -60,10 +61,10 @@
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	  <li><b>OS:</b> macOS Monterey</li>
-	    <li><b>Laptop: </b> Macbook Pro 13'</li>
-  	  <li><b>Browser: </b> Safari</li>
+	    <li><b>Laptop: </b> Macbook Pro 14 M1 Pro'</li>
+  	  <li><b>Browser: </b> Chrome, Firefox, Safari</li>
 	    <li><b>Terminal: </b> Terminal macOS</li>
-	    <li><b>Code Editor:</b> Atom, Xcode</li>
+	    <li><b>Code Editor:</b> Atom, VS Code, Xcode</li>
 	    <br />
 	</ul>	
 </details>
