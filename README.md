@@ -60,8 +60,8 @@
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	  <li><b>OS:</b> macOS Monterey</li>
-	    <li><b>Laptop: </b> Macbook Pro 14 M1 Pro'</li>
+  	  <li><b>OS:</b> macOS Ventura</li>
+	    <li><b>Laptop: </b> Macbook Pro 14 M1 Pro</li>
   	  <li><b>Browser: </b> Chrome, Firefox, Safari</li>
 	    <li><b>Terminal: </b> Terminal macOS</li>
 	    <li><b>Code Editor:</b> Atom, VS Code, Xcode</li>
