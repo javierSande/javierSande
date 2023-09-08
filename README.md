@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Javier Sande</h1>
-<h3 align="center">Computer Science Engineering student at UCM and <br /> iOS software engineer at Nomasystems</h3>
+<h3 align="center">Cybersecurity graduated student at UC3M and <br /> iOS software engineer at Nomasystems</h3>
 <br />
 
 <!--img align="right" height="250" width="375" alt="" src="https://github.com/javierSande/javierSande/blob/main/gifs/coder.gif" /-->
