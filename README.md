@@ -23,8 +23,8 @@
 </tr>
 </table>
 
-- 🌱 I’m currently learning **Web Development**
-- 🖌 I’m currently researching **Solidity compiler optimization**
+- 🌱 I’m currently learning **Cybersecurity**
+- 🖌 I’m currently researching **Cybersecurity and Artificial Intelligence for a More Resilient Electrical Grid**
 - 💬 Ask me anything on my **[issues page]**
 - 📫 How to reach me: **javiersanderios@gmail.com**
 
