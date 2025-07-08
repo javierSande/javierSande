@@ -8,6 +8,12 @@
 <table align="right">
 <tr>
 	<td align="center" style="padding=0;width=50%;">
+		<img src="https://tryhackme-badges.s3.amazonaws.com/javiersanderios.png" alt="Your Image Badge" />
+	</td>
+</tr>
+	
+<tr>
+	<td align="center" style="padding=0;width=50%;">
 		<img height="140em" src="https://github-readme-stats.vercel.app/api?username=javierSande&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&hide=none&title_color=64B2FFFF&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000" />
 	</td>
 </tr>
@@ -23,8 +29,8 @@
 </tr>
 </table>
 
+<!-- - 🖌 I’m currently researching **Cybersecurity and Artificial Intelligence for a More Resilient Electrical Grid** -->
 - 🌱 I’m currently learning **Cybersecurity**
-- 🖌 I’m currently researching **Cybersecurity and Artificial Intelligence for a More Resilient Electrical Grid**
 - 💬 Ask me anything on my **[issues page]**
 - 📫 How to reach me: **javiersanderios@gmail.com**
 
@@ -53,21 +59,6 @@
   -->
   <a href="https://linkedin.com/in/javiersanderios" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="javiersanderios" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Projects and Dev Stuff:</h3>
-
-<details>	
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	  <li><b>OS:</b> macOS Ventura</li>
-	    <li><b>Laptop: </b> Macbook Pro 14 M1 Pro</li>
-  	  <li><b>Browser: </b> Chrome, Firefox, Safari</li>
-	    <li><b>Terminal: </b> Terminal macOS</li>
-	    <li><b>Code Editor:</b> Atom, VS Code, Xcode</li>
-	    <br />
-	</ul>	
-</details>
 
 <br />
 
